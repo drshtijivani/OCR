@@ -1,8 +1,7 @@
 Automated OCR Text Extraction for Shipping Labels
 
 
-for better view drive link: https://drive.google.com/file/d/17Ggj5WUHd9bnZo3_7xfo9A6GVeYedAgS/view?usp=sharing
-
+for better view drive link: https://drive.google.com/file/d/1Opapk62VlB9KO4vL8JOWC50XwHxvrT4V/view?usp=sharing
 Project Title
 
 Automated OCR Text Extraction for Shipping Labels
